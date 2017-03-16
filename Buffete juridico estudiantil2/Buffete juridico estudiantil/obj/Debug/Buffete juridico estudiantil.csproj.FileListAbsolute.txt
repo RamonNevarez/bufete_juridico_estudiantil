@@ -1,0 +1,53 @@
+c:\users\pc_f1_14\documents\visual studio 2012\Projects\Buffete juridico estudiantil\Buffete juridico estudiantil\bin\Debug\Buffete juridico estudiantil.exe.config
+c:\users\pc_f1_14\documents\visual studio 2012\Projects\Buffete juridico estudiantil\Buffete juridico estudiantil\obj\Debug\Buffete juridico estudiantil.csprojResolveAssemblyReference.cache
+c:\users\pc_f1_14\documents\visual studio 2012\Projects\Buffete juridico estudiantil\Buffete juridico estudiantil\obj\Debug\Buffete_juridico_estudiantil.Login.resources
+c:\users\pc_f1_14\documents\visual studio 2012\Projects\Buffete juridico estudiantil\Buffete juridico estudiantil\obj\Debug\Buffete_juridico_estudiantil.Menu.resources
+c:\users\pc_f1_14\documents\visual studio 2012\Projects\Buffete juridico estudiantil\Buffete juridico estudiantil\obj\Debug\Buffete_juridico_estudiantil.Properties.Resources.resources
+c:\users\pc_f1_14\documents\visual studio 2012\Projects\Buffete juridico estudiantil\Buffete juridico estudiantil\obj\Debug\Buffete juridico estudiantil.csproj.GenerateResource.Cache
+c:\users\pc_f1_14\documents\visual studio 2012\Projects\Buffete juridico estudiantil\Buffete juridico estudiantil\bin\Debug\Buffete juridico estudiantil.exe
+c:\users\pc_f1_14\documents\visual studio 2012\Projects\Buffete juridico estudiantil\Buffete juridico estudiantil\bin\Debug\Buffete juridico estudiantil.pdb
+c:\users\pc_f1_14\documents\visual studio 2012\Projects\Buffete juridico estudiantil\Buffete juridico estudiantil\obj\Debug\Buffete juridico estudiantil.exe
+c:\users\pc_f1_14\documents\visual studio 2012\Projects\Buffete juridico estudiantil\Buffete juridico estudiantil\obj\Debug\Buffete juridico estudiantil.pdb
+C:\Users\pc_f1_14\documents\visual studio 2012\Projects\Buffete juridico estudiantil\Buffete juridico estudiantil\obj\Debug\Buffete_juridico_estudiantil.Registros.resources
+C:\José Luis\ing soft\Buffete juridico estudiantil2\Buffete juridico estudiantil\bin\Debug\Buffete juridico estudiantil.exe.config
+C:\José Luis\ing soft\Buffete juridico estudiantil2\Buffete juridico estudiantil\obj\Debug\Buffete juridico estudiantil.exe
+C:\José Luis\ing soft\Buffete juridico estudiantil2\Buffete juridico estudiantil\obj\Debug\Buffete juridico estudiantil.pdb
+C:\José Luis\ing soft\Buffete juridico estudiantil2\Buffete juridico estudiantil\bin\Debug\Buffete juridico estudiantil.exe
+C:\José Luis\ing soft\Buffete juridico estudiantil2\Buffete juridico estudiantil\bin\Debug\Buffete juridico estudiantil.pdb
+C:\José Luis\ing soft\Buffete juridico estudiantil2\Buffete juridico estudiantil\obj\Debug\Buffete juridico estudiantil.csprojResolveAssemblyReference.cache
+C:\José Luis\ing soft\Buffete juridico estudiantil2\Buffete juridico estudiantil\obj\Debug\Buffete_juridico_estudiantil.Login.resources
+C:\José Luis\ing soft\Buffete juridico estudiantil2\Buffete juridico estudiantil\obj\Debug\Buffete_juridico_estudiantil.Menu.resources
+C:\José Luis\ing soft\Buffete juridico estudiantil2\Buffete juridico estudiantil\obj\Debug\Buffete_juridico_estudiantil.Properties.Resources.resources
+C:\José Luis\ing soft\Buffete juridico estudiantil2\Buffete juridico estudiantil\obj\Debug\Buffete_juridico_estudiantil.Registros.resources
+C:\José Luis\ing soft\Buffete juridico estudiantil2\Buffete juridico estudiantil\obj\Debug\Buffete juridico estudiantil.csproj.GenerateResource.Cache
+C:\José Luis\ing soft\Buffete juridico estudiantil2\Buffete juridico estudiantil\obj\Debug\Buffete_juridico_estudiantil.Juzgados.resources
+C:\José Luis\ing soft\Buffete juridico estudiantil2\Buffete juridico estudiantil\obj\Debug\Buffete_juridico_estudiantil.Tramites.resources
+C:\José Luis\ing soft\Buffete juridico estudiantil2\Buffete juridico estudiantil\obj\Debug\Buffete_juridico_estudiantil.Clientes.resources
+C:\Users\jesus\Desktop\Buffete juridico estudiantil2\Buffete juridico estudiantil\bin\Debug\Buffete juridico estudiantil.exe.config
+C:\Users\jesus\Desktop\Buffete juridico estudiantil2\Buffete juridico estudiantil\obj\Debug\Buffete juridico estudiantil.exe
+C:\Users\jesus\Desktop\Buffete juridico estudiantil2\Buffete juridico estudiantil\obj\Debug\Buffete juridico estudiantil.pdb
+C:\Users\jesus\Desktop\Buffete juridico estudiantil2\Buffete juridico estudiantil\bin\Debug\Buffete juridico estudiantil.exe
+C:\Users\jesus\Desktop\Buffete juridico estudiantil2\Buffete juridico estudiantil\bin\Debug\Buffete juridico estudiantil.pdb
+C:\Users\jesus\Desktop\Buffete juridico estudiantil2\Buffete juridico estudiantil\obj\Debug\Buffete juridico estudiantil.csprojResolveAssemblyReference.cache
+C:\Users\jesus\Desktop\Buffete juridico estudiantil2\Buffete juridico estudiantil\obj\Debug\Buffete_juridico_estudiantil.Properties.Resources.resources
+C:\Users\jesus\Desktop\Buffete juridico estudiantil2\Buffete juridico estudiantil\obj\Debug\Buffete juridico estudiantil.csproj.GenerateResource.Cache
+C:\Users\jesus\Desktop\Buffete juridico estudiantil2\Buffete juridico estudiantil\obj\Debug\Buffete_juridico_estudiantil.frmClientes.resources
+C:\Users\jesus\Desktop\Buffete juridico estudiantil2\Buffete juridico estudiantil\obj\Debug\Buffete_juridico_estudiantil.frmJuzgados.resources
+C:\Users\jesus\Desktop\Buffete juridico estudiantil2\Buffete juridico estudiantil\obj\Debug\Buffete_juridico_estudiantil.frmLogin.resources
+C:\Users\jesus\Desktop\Buffete juridico estudiantil2\Buffete juridico estudiantil\obj\Debug\Buffete_juridico_estudiantil.frmMenu.resources
+C:\Users\jesus\Desktop\Buffete juridico estudiantil2\Buffete juridico estudiantil\obj\Debug\Buffete_juridico_estudiantil.frmRegistros.resources
+C:\Users\jesus\Desktop\Buffete juridico estudiantil2\Buffete juridico estudiantil\obj\Debug\Buffete_juridico_estudiantil.frmTramites.resources
+C:\Users\Alumnos\Desktop\Buffete juridico estudiantil2\Buffete juridico estudiantil\bin\Debug\Buffete juridico estudiantil.exe.config
+C:\Users\Alumnos\Desktop\Buffete juridico estudiantil2\Buffete juridico estudiantil\obj\Debug\Buffete juridico estudiantil.exe
+C:\Users\Alumnos\Desktop\Buffete juridico estudiantil2\Buffete juridico estudiantil\obj\Debug\Buffete juridico estudiantil.pdb
+C:\Users\Alumnos\Desktop\Buffete juridico estudiantil2\Buffete juridico estudiantil\bin\Debug\Buffete juridico estudiantil.exe
+C:\Users\Alumnos\Desktop\Buffete juridico estudiantil2\Buffete juridico estudiantil\bin\Debug\Buffete juridico estudiantil.pdb
+C:\Users\Alumnos\Desktop\Buffete juridico estudiantil2\Buffete juridico estudiantil\obj\Debug\Buffete juridico estudiantil.csprojResolveAssemblyReference.cache
+C:\Users\Alumnos\Desktop\Buffete juridico estudiantil2\Buffete juridico estudiantil\obj\Debug\Buffete_juridico_estudiantil.frmClientes.resources
+C:\Users\Alumnos\Desktop\Buffete juridico estudiantil2\Buffete juridico estudiantil\obj\Debug\Buffete_juridico_estudiantil.frmJuzgados.resources
+C:\Users\Alumnos\Desktop\Buffete juridico estudiantil2\Buffete juridico estudiantil\obj\Debug\Buffete_juridico_estudiantil.frmLogin.resources
+C:\Users\Alumnos\Desktop\Buffete juridico estudiantil2\Buffete juridico estudiantil\obj\Debug\Buffete_juridico_estudiantil.frmMenu.resources
+C:\Users\Alumnos\Desktop\Buffete juridico estudiantil2\Buffete juridico estudiantil\obj\Debug\Buffete_juridico_estudiantil.Properties.Resources.resources
+C:\Users\Alumnos\Desktop\Buffete juridico estudiantil2\Buffete juridico estudiantil\obj\Debug\Buffete_juridico_estudiantil.frmRegistros.resources
+C:\Users\Alumnos\Desktop\Buffete juridico estudiantil2\Buffete juridico estudiantil\obj\Debug\Buffete_juridico_estudiantil.frmTramites.resources
+C:\Users\Alumnos\Desktop\Buffete juridico estudiantil2\Buffete juridico estudiantil\obj\Debug\Buffete juridico estudiantil.csproj.GenerateResource.Cache
